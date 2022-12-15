@@ -102,3 +102,7 @@ dist
 
 # TernJS port file
 .tern-port
+
+# DDOK
+.DDOK_FRONT/config
+.DDOK_FRONT/build
